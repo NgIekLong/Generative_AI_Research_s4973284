@@ -47,3 +47,11 @@ Generative_AI_Research_SID/
 - Write clear commit messages
 - Do not upload sensitive participant data
 - Pull updates before editing files
+
+## How to Contribute
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Submit a pull request with a detailed description of your changes.
+
+## License
+For academic use within the REIT6811 course.
